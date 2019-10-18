@@ -67,6 +67,6 @@
 
 **캠프 참가자는 모두 만족도조사,  캠프후기를 작성해 주시기 바랍니다.**
 
-[캠프 후기 작성하러가기](http://osam.kr/osam/collective/boards/3)
+[캠프 후기 작성하러 가기](http://osam.kr/osam/collective/boards/3)
 
-
+[만족도 조사 작성하러 가기] (https://docs.google.com/a/osskorea.org/forms/d/1ImEbtXVy91uBtqeZRVRQAt9HQzD8viLtfzirCThbcRs/prefill)
