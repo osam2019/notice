@@ -58,4 +58,4 @@
 
 [캠프 후기 작성하러 가기](http://osam.kr/osam/collective/boards/3)
 
-[만족도 조사 작성하러 가기](https://docs.google.com/a/osskorea.org/forms/d/1ImEbtXVy91uBtqeZRVRQAt9HQzD8viLtfzirCThbcRs/prefill)
+[만족도 조사 작성하러 가기](https://docs.google.com/forms/d/e/1FAIpQLSf8eG5VOaqrt7EReYIzjXzqB6htAXOuBFipJoePHdSyUBtuNA/viewform?usp=sf_link)
